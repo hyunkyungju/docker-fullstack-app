@@ -7,7 +7,7 @@
             "hostname": "frontend",
             "essential": false,
             "memory": 128
-        },
+        },              
         {
             "name": "backend",
             "image": "wngusrud27/docker-backend",
